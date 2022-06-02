@@ -1,56 +1,17 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: 'How-to's'
+summary: Learn how to use Python efficiently in lab reports and for analysing data.
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: How-to's
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---
 
-## Flexibility
+## Python in advanced Laboratories
 
-Document everything!
-
-This feature can be used for publishing content such as:
-
-- **Online courses**
-- **Project or software documentation**
-- **Tutorials**
-- **Notes**
-
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
-
-## Delete courses
-
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
-
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated _Courses_ menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the _docs_ layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+Python is an extremely useful tool when used properly. The aim of this web page is to provide an easy to naviagte resource for helping studemts that are not confident in coding. These 'how-to's' will provide a simplified explanation on how to do the things you need for the labs, while the suplementary material will provide a slightly more advanced and in-depth view on how/why things work, for those who have mastered the basics. It is a hard skill to attain, so never be afraid to ask questions, and don't worry about getting things wrong the first time!
