@@ -1,4 +1,12 @@
-# Using Packages in Python 
+---
+title: Packages in Python
+linktitle: How to use numpy
+type: book
+date: '2019-05-05T00:00:00+01:00'
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 2
+---
+
 
 While python is extremely useful on it's own, many packages can be used to help make life a bit easier. The main ones are explained below.
 
