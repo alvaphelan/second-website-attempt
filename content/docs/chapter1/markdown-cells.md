@@ -1,6 +1,6 @@
 ---
-title: How to format your code
-linktitle: Reading List
+title: Writing your code well
+linktitle: Formatting your code
 type: book
 date: '2019-05-05T00:00:00+01:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -8,7 +8,6 @@ weight: 2
 ---
 
 
-# Writing your code well
 
 ### When coding, it is extremelly important to make your code clear and concise.
 You are not going to be the only person reading your code and so it must be easy to follow. It is also very easy to forget why you did something when reading back on it yourself days or week after you've written it. This is helped by using markdown cells and commenting your code.
