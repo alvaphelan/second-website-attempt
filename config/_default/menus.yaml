@@ -1,12 +1,48 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
 main:
-  - name: Home
-    url: /
-    weight: 10
-  - name: Documentation
-    url: docs/
-    weight: 20
+ - name: "Information"
+   url:  'info/'
+   identifier: 'info'
+   weight: 10
+
+ - name: "COVID-19"
+   url:  'info/covid'
+   weight: 10
+   parent: info
+
+ - name: "Stage 3"
+   url:  'info/stage3'
+   weight: 20
+   parent: info
+
+ - name: "Stage 4"
+   url:  'info/stage4'
+   weight: 30
+   parent: info
+
+ - name: "Documentation"
+   url: "docs/"
+   weight: 20
+   identifier: docs
+
+ - name: "Python"
+   url: "docs/python"
+   weight:  10
+   parent: docs
+
+ - name: "Data Acquisition"
+   url: "docs/dacq"
+   weight: 20
+   parent: docs
+
+ - name: "Data Analysis"
+   url: "docs/data_analysis"
+   weight: 30
+   parent: docs
+
+ - name: "Report Writing"
+   url: "docs/report_writing"
+   weight: 40
+   parent: docs
+
+
+
