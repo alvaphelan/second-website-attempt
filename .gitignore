@@ -4,4 +4,9 @@
 # Hugo
 resources/
 public/
-jsconfig.json
+
+# OS X
+.DS_Store
+
+# emacs
+*~
