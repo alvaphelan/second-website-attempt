@@ -1,13 +1,13 @@
 ---
 title: Formatting Your Code
-linktitle: How to use Markdown 
+linktitle: using-markdwon 
 date: 2022-07-06
 type: book
 toc: true
 ---
 # 
 
-
+Making your code clear 
 
 <!--more-->
 
