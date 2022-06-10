@@ -115,11 +115,13 @@ There are many different things you can do with f-strings, including easily maki
 
 
 ### Lastly, it is extremely important to comment your code as you go
-This is easily done by just writing a '#' before your text. It can just be as simple as writing '#importing data' or '#assigning this to a variable' etc. It makes a huge difference in letting other people understand your code and can remind you of things you've forgotten. 
+This is easily done by just writing a '#' before your text. It can just be as simple as writing '#importing data' or '#assigning this to a variable' etc. It makes a huge difference in letting other people understand your code and can remind you of things you might have forgotten. 
 
-Attempting to embed code
+# Attempting to embed code
 
 https://gist.github.com/alvaphelan/e4667ba6811d9111c3a2eab41f46e9b1
+
+Hoping this works
 
 
 ```python
