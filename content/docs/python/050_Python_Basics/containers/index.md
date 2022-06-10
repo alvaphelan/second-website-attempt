@@ -4,7 +4,7 @@ title: Containers
 
 toc: true
 type: book
-weight: 20
+weight: 10
 --- 
 
 Information on standard Python containers
