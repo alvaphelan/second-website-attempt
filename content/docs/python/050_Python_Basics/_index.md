@@ -16,6 +16,10 @@ programming in the Python language such as containters (lists,
 dictionaries, tuples), conditions and decisions, looping, strings and
 writing to a file. 
 
+Here is a lsit of how-tos:
+
+- Matplotlib (https://github.com/UCD-Physics/Python-HowTos/blob/main/matplotlib.ipynb)
+
 
  {{< toc hide_on="xl" >}}
 
