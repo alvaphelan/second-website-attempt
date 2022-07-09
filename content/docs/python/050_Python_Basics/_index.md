@@ -19,6 +19,7 @@ This section will provide a 'how-to' on many basic concepts in Python. The aim o
 - [How to plot error bars.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Error_Bars.ipynb)
 - [How to write concise functions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Functions.ipynb)
 - [How to write loops.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Writing_Loops.ipynb)
+- [Helpful tips when interfacing](https://github.com/UCD-Physics/Python-HowTos/blob/main/Interfacing.ipynb)
 
 
  {{< toc hide_on="xl" >}}
