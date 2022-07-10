@@ -20,6 +20,7 @@ This section will provide a 'how-to' on many basic concepts in Python. The aim o
 - [How to write concise functions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Functions.ipynb)
 - [How to write loops.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Writing_Loops.ipynb)
 - [Helpful tips when interfacing](https://github.com/UCD-Physics/Python-HowTos/blob/main/Interfacing.ipynb)
+- [How to format a computational lab report](https://github.com/UCD-Physics/Python-HowTos/blob/main/Computational_Lab_Guideslines.pdf)
 
 
  {{< toc hide_on="xl" >}}
